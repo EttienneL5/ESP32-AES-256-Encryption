@@ -1,4 +1,4 @@
-# ESP32-AES-256-Encryption
+# ESP32 AES 256 CBC PKCS5/7 Encryption
 This is a working example of the AES256 encryption method
 
 When i was looking into creating a device that required aes256 cbc i did not think that it would be so difficult to find a working example. 
